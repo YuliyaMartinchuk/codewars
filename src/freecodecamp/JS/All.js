@@ -13,3 +13,5 @@ const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]);
 //.unshift() function.- добавляет к массиву элемент в начале
+
+const myList = [["Chocolate Bar", 15],["Water", 20],["Fish", 50],["Meat", 60],["Cakes", 20]];
