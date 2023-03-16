@@ -15,3 +15,9 @@ myArray.unshift(["Paul", 35]);
 //.unshift() function.- добавляет к массиву элемент в начале
 
 const myList = [["Chocolate Bar", 15],["Water", 20],["Fish", 50],["Meat", 60],["Cakes", 20]];
+
+
+function reusableFunction() {
+    console.log("Hi World");
+}
+reusableFunction();
