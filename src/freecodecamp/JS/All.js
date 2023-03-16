@@ -1,11 +1,15 @@
 const myArray = [["John", 23], ["cat", 2]];
 myArray.push(["dog", 3])
-//method push
-
+//method push - добавляет к массиву элемент в конце
 const myArray = [["John", 23], ["cat", 2]];
 var removedFromMyArray = myArray.pop()
-//.pop() function.
+//.pop() function.- удаляет последний элемент в массиве
 
 const myArray = [["John", 23], ["dog", 3]];
 var removedFromMyArray = myArray.shift()
-//.shift() function.
+//.shift() function.- удаляет первый элемент в массиве
+
+const myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+myArray.unshift(["Paul", 35]);
+//.unshift() function.- добавляет к массиву элемент в начале
