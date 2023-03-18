@@ -41,7 +41,10 @@ body {
     display: inline-block;
     margin-top:5px;
     margin-bottom:5px;
+    font-size:18px;
 }
+
+
 .flavor, .dessert {
     text-align: left;
     width: 75%;
@@ -50,4 +53,10 @@ body {
     text-align: right;
     width: 25%;
 }
+
+.bottom-line {
+    margin-top:25px;
+}
+
+
 
