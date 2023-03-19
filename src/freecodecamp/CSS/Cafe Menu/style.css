@@ -38,6 +38,12 @@ body {
     max-width:500px;
 }
 
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 .item p {
     display: inline-block;
     margin-top:5px;
